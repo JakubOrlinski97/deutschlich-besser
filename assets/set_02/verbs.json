@@ -1,0 +1,753 @@
+[
+  {
+    "word": "hinweisen",
+    "translation": "to point out",
+    "separable": "hin",
+    "reflexiv": false,
+    "praeteritum": "wies",
+    "perfect": "hingewiesen",
+    "preposition": "auf",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "hinziehen",
+    "translation": "to drag on",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "zog",
+    "perfect": "hingezogen",
+    "preposition": "über",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "begeistern",
+    "translation": "to be amazed by",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "begeisterte",
+    "perfect": "begeistert",
+    "preposition": "für",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "einschränken",
+    "translation": "to limit oneself to",
+    "separable": "ein",
+    "reflexiv": true,
+    "praeteritum": "schränkte",
+    "perfect": "eingeschränkt",
+    "preposition": "auf",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "verarbeiten",
+    "translation": "to process (e.g. emotions)",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "verarbeitete",
+    "perfect": "verarbeitet",
+    "preposition": "",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "verurteilen",
+    "translation": "to judge (morally)",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "verurteilte",
+    "perfect": "verurteilt",
+    "preposition": "für",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "zurückschrecken",
+    "translation": "to shy away from",
+    "separable": "zurück",
+    "reflexiv": false,
+    "praeteritum": "schreckte",
+    "perfect": "zurückgeschreckt",
+    "preposition": "vor",
+    "case": "Dativ"
+  },
+  {
+    "word": "beweisen",
+    "translation": "to demonstrate",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "bewies",
+    "perfect": "bewiesen",
+    "preposition": "",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "erpressen",
+    "translation": "to blackmail",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "erpresste",
+    "perfect": "erpresst",
+    "preposition": "",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "zuweisen",
+    "translation": "to assign (e.g. blame)",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "zuwies",
+    "perfect": "zugewiesen",
+    "preposition": "",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "kränken",
+    "translation": "to offend, affront",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "kränkte",
+    "perfect": "gekränkt",
+    "preposition": "",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "festlegen",
+    "translation": "to schedule",
+    "separable": "fest",
+    "reflexiv": false,
+    "praeteritum": "legte",
+    "perfect": "festgelegt",
+    "preposition": "",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "gestehen",
+    "translation": "to admit to others",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "gestand",
+    "perfect": "gestanden",
+    "preposition": "zu",
+    "case": "Dativ"
+  },
+  {
+    "word": "einstehen",
+    "translation": "to admit to urself",
+    "separable": "ein",
+    "reflexiv": false,
+    "praeteritum": "stand",
+    "perfect": "eingestanden",
+    "preposition": "für",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "anstoßen",
+    "translation": "to initiate, kick off",
+    "separable": "an",
+    "reflexiv": false,
+    "praeteritum": "stieß",
+    "perfect": "angestoßen",
+    "preposition": "",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "berücksichtigen",
+    "translation": "to take into account",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "berücksichtigte",
+    "perfect": "berücksichtigt",
+    "preposition": "",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "unterlaufen",
+    "translation": "to circumvent / avoid",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "unterlief",
+    "perfect": "unterlaufen",
+    "preposition": "",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "begehen",
+    "translation": "to commit",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "beging",
+    "perfect": "begangen",
+    "preposition": "",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "eignen",
+    "translation": "to be suited for smth",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "eignete",
+    "perfect": "geeignet",
+    "preposition": "für",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "eignen",
+    "translation": "to be suited for smth",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "eignete",
+    "perfect": "geeignet",
+    "preposition": "zu",
+    "case": "Dativ"
+  },
+  {
+    "word": "äußern",
+    "translation": "to express yourself",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "äußerte",
+    "perfect": "geäußert",
+    "preposition": "",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "auffallen",
+    "translation": "to stand out",
+    "separable": "auf",
+    "reflexiv": false,
+    "praeteritum": "fiel",
+    "perfect": "aufgefallen",
+    "preposition": "",
+    "case": "Dativ"
+  },
+  {
+    "word": "irren",
+    "translation": "to make mistakes",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "irrte",
+    "perfect": "geirrt",
+    "preposition": "",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "prahlen",
+    "translation": "to boast",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "prahlte",
+    "perfect": "geprahlt",
+    "preposition": "mit",
+    "case": "Dativ"
+  },
+  {
+    "word": "anpassen",
+    "translation": "to adjust oneself to",
+    "separable": "an",
+    "reflexiv": true,
+    "praeteritum": "passte",
+    "perfect": "angepasst",
+    "preposition": "an",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "verwirklichen",
+    "translation": "to make real",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "verwirklichte",
+    "perfect": "verwirklicht",
+    "preposition": "",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "verschweigen",
+    "translation": "to conceal",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "verschwieg",
+    "perfect": "verschwiegen",
+    "preposition": "",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "vertragen",
+    "translation": "to make up with so",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "vertrug",
+    "perfect": "vertragt",
+    "preposition": "mit",
+    "case": "Dativ"
+  },
+  {
+    "word": "durchfuhren",
+    "translation": "to carry out",
+    "separable": "durch",
+    "reflexiv": false,
+    "praeteritum": "führte",
+    "perfect": "durchgeführt",
+    "preposition": "",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "ergeben",
+    "translation": "to result in",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "ergab",
+    "perfect": "ergeben",
+    "preposition": "",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "empfangen",
+    "translation": "to receive so",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "empfing",
+    "perfect": "empfangen",
+    "preposition": "",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "vertreten",
+    "translation": "to represent",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "vertritt",
+    "perfect": "vertreten",
+    "preposition": "",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "anklagen",
+    "translation": "to accuse",
+    "separable": "an",
+    "reflexiv": false,
+    "praeteritum": "klagte",
+    "perfect": "angeklagt",
+    "preposition": "",
+    "case": "Genitiv"
+  },
+  {
+    "word": "verfügen",
+    "translation": "to have at disposal",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "verfügte",
+    "perfect": "verfügt",
+    "preposition": "über",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "verabreden",
+    "translation": "to make plans",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "verabredete",
+    "perfect": "verabredet",
+    "preposition": "mit",
+    "case": "Dativ",
+    "someone_else": "ihn"
+  },
+  {
+    "word": "trennen",
+    "translation": "to separate",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "trennte",
+    "perfect": "getrennt",
+    "preposition": "von",
+    "case": "Dativ"
+  },
+  {
+    "word": "treffen",
+    "translation": "to meet",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "traf",
+    "perfect": "getroffen",
+    "preposition": "mit",
+    "case": "Dativ"
+  },
+  {
+    "word": "träumen",
+    "translation": "to dream",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "träumte",
+    "perfect": "geträumt",
+    "preposition": "von",
+    "case": "Dativ"
+  },
+  {
+    "word": "teilnehmen",
+    "translation": "to take part",
+    "separable": "teil",
+    "reflexiv": false,
+    "praeteritum": "nahm",
+    "perfect": "teilgenommen",
+    "preposition": "an",
+    "case": "Dativ"
+  },
+  {
+    "word": "gratulieren",
+    "translation": "to congratulate",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "gratulierte",
+    "perfect": "gratuliert",
+    "preposition": "zu",
+    "case": "Dativ"
+  },
+  {
+    "word": "gehören",
+    "translation": "to belong",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "gehörte",
+    "perfect": "gehört",
+    "preposition": "zu",
+    "case": "Dativ"
+  },
+  {
+    "word": "fragen",
+    "translation": "to ask",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "fragte",
+    "perfect": "gefragt",
+    "preposition": "nach",
+    "case": "Dativ"
+  },
+  {
+    "word": "erzählen",
+    "translation": "to narrate",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "erzählte",
+    "perfect": "erzählt",
+    "preposition": "von",
+    "case": "Dativ"
+  },
+  {
+    "word": "einladen",
+    "translation": "to invite",
+    "separable": "ein",
+    "reflexiv": false,
+    "praeteritum": "lädt",
+    "perfect": "eingeladen",
+    "preposition": "zu",
+    "case": "Dativ"
+  },
+  {
+    "word": "diskutieren",
+    "translation": "to discuss",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "diskutierte",
+    "perfect": "diskutiert",
+    "preposition": "mit",
+    "case": "Dativ"
+  },
+  {
+    "word": "bestehen",
+    "translation": "to be made of",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "bestand",
+    "perfect": "bestanden",
+    "preposition": "aus",
+    "case": "Dativ"
+  },
+  {
+    "word": "beschäftigen",
+    "translation": "to occupy oneself",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "beschäftigte",
+    "perfect": "beschäftigt",
+    "preposition": "mit",
+    "case": "Dativ"
+  },
+  {
+    "word": "warten",
+    "translation": "to wait",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "wartete",
+    "perfect": "wartet",
+    "preposition": "auf",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "vorbereiten",
+    "translation": "to prepare",
+    "separable": "vor",
+    "reflexiv": true,
+    "praeteritum": "vorbereitete",
+    "perfect": "vorbereitet",
+    "preposition": "auf",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "verlieben",
+    "translation": "to fall in love",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "verliebte",
+    "perfect": "verliebt",
+    "preposition": "in",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "verlassen",
+    "translation": "to rely",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "verließ",
+    "perfect": "verlassen",
+    "preposition": "auf",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "unterhalten",
+    "translation": "to converse",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "unterhielt",
+    "perfect": "unterhalten",
+    "preposition": "über",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "streiten",
+    "translation": "to argue",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "stritt",
+    "perfect": "gestritten",
+    "preposition": "",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "reden",
+    "translation": "to talk",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "redete",
+    "perfect": "geredet",
+    "preposition": "über",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "nachdenken",
+    "translation": "to ponder",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "nachdachte",
+    "perfect": "nachgedacht",
+    "preposition": "über",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "lachen",
+    "translation": "to laugh",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "lachte",
+    "perfect": "gelacht",
+    "preposition": "über",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "kümmern",
+    "translation": "to take care of",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "kümmerte",
+    "perfect": "gekümmert",
+    "preposition": "um",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "interessen",
+    "translation": "to be interested",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "interessierte",
+    "perfect": "interessiert",
+    "preposition": "für",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "informieren",
+    "translation": "to inform oneself",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "informierte",
+    "perfect": "informiert",
+    "preposition": "über",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "gewöhnen",
+    "translation": "to be used to",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "gewöhnte",
+    "perfect": "gewöhnt",
+    "preposition": "an",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "freuen",
+    "translation": "to be excited",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "freute",
+    "perfect": "gefreut",
+    "preposition": "auf",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "erinnern",
+    "translation": "to remember",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "erinnerte",
+    "perfect": "erinnert",
+    "preposition": "an",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "entschuldigen",
+    "translation": "to excuse oneself",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "entschuldigte",
+    "perfect": "entschuldigt",
+    "preposition": "für",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "entscheiden",
+    "translation": "to decide",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "entschied",
+    "perfect": "entschieden",
+    "preposition": "für",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "engagieren",
+    "translation": "to get involved",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "engagierte",
+    "perfect": "engagiert",
+    "preposition": "für",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "diskutieren",
+    "translation": "to discuss",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "diskutierte",
+    "perfect": "diskutiert",
+    "preposition": "über",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "denken",
+    "translation": "to think",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "dachte",
+    "perfect": "gedacht",
+    "preposition": "an",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "bitten",
+    "translation": "to ask",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "bat",
+    "perfect": "gebeten",
+    "preposition": "um",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "bewerben",
+    "translation": "to apply",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "bewerbte",
+    "perfect": "bewerbt",
+    "preposition": "auf",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "beschweren",
+    "translation": "to complain",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "beschwerte",
+    "perfect": "beschwert",
+    "preposition": "über",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "ärgern",
+    "translation": "to be annoyed",
+    "separable": "",
+    "reflexiv": true,
+    "praeteritum": "ärgerte",
+    "perfect": "geärgert",
+    "preposition": "über",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "aufpassen",
+    "translation": "to pay attention",
+    "separable": "auf",
+    "reflexiv": false,
+    "praeteritum": "passte",
+    "perfect": "aufgepasst",
+    "preposition": "auf",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "antworten",
+    "translation": "to reply",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "antwortete",
+    "perfect": "geantwortet",
+    "preposition": "auf",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "anmelden",
+    "translation": "to register",
+    "separable": "an",
+    "reflexiv": true,
+    "praeteritum": "meldete",
+    "perfect": "gemeldet",
+    "preposition": "für",
+    "case": "Akkusativ"
+  },
+  {
+    "word": "verschieben",
+    "translation": "to postpone",
+    "separable": "",
+    "reflexiv": false,
+    "praeteritum": "verschob",
+    "perfect": "verschieben",
+    "preposition": "auf",
+    "case": "Akkusativ"
+  }
+]
